@@ -1,5 +1,5 @@
 ## Ex.No: 6               HOLT WINTERS METHOD
-### Date: 27-09-2025
+
 
 #### NAME: PAVITHRAN S
 #### REGISTER NUMBER:212223240113
